@@ -54,5 +54,5 @@ Aunque BNB tiene una baja en capitalización del mercado en el correr del año, 
 
   
 <p align='center'>
-<img src ="https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif" height=250>
+<img src ="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/criptomonedas-vs-acciones-diferencias-incovenientes-cual-mejor-opcion-dinero-2522591.jpg?tf=3840x" height=250>
 <p>
