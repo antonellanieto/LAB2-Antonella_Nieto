@@ -15,7 +15,7 @@
 
 ## **Análisis**
 
-Trás propuesta de recopilación de datos relevantes para un análisis de criptomonedas, bajo la base de datos de la API CoinGecko, lo que consideré fueron las 50 monedas con mayor capitalización en el mercado, en la fecha 9 de agosto. 
+Considerando el objetivo de análisis de la info provista en la API CoinGecko el criterio a considerar fue sobre las 50 monedas con mayor capitalización en el mercado, en la fecha 9 de agosto. 
 En esa lista el orden quedó, de mayor a menor, Bitcoin, Ethereum, Tether, BNB, XRP, USD Coin, Lido Staked Ether, Dogecoin, Cardano y Solana.
 El valor de capitalización del mercado es el resultado del precio multiplicado por la cantidad en circulación.
 Después de filtrar a 10 monedas comparé las monedas según el mayor precio, el menor precio alcanzado y el precio en el período 2015 a fines 2022. 
@@ -32,20 +32,20 @@ En el atributo de cantidad de monedas en circulación está la moneda Dogecoin.
 En el atributo capitlización del mercado están las monedas Bitcoin y Ethereum.
 En el atributo de precio actual está la moneda de Bitcoin.
 
-## **Conclusiones de los Outliers-**
+## **Conclusiones de los Outliers**
 
 Obteniendo estos resultados, se puede interpretar que Lido Staked Ether es la moneda que dentro de los precios más bajos alcanzados, es el más alto, en 482,90 dólares. Esto registrado en la fecha del 10/11/2021. Siendo su máximo valor alcanzado 4829,57 dólares.
 Dado que los datos van desde el 2015, o desde registros después de esa fecha hasta fines de 2022, también aparece como un outlier el valor mínimo alcanzado de Bitcoin, valorado en 67,81 dólares, data en el año 2013. Por lo cuál no es referente para tomar en cuenta en el análisis.
 Dogecoin aparece como la moneda con menos circulación en la fecha, con un precio en 0,076 dólares. 
 
 
-***KPI's***
+## ***KPI's***
 Para el análisis de KPIS tomé en cuenta tres cálculos, la volatilidad del precio, crecimiento de capitalización del mercado y el crecimiento del volumen.
 Los datos que se tomaron en cuenta para el análisis son desde principio de año hasta el mes de agosto inclusive.
 
 
-***Conclusiones finales***
-Según el radio de la volatilidad de precios una inversión a largo plazo o para uso de transacciones diarias, la moneda a recomendar es USD Coin. Con el fin de invertir a un plazo un poco más extenso, pero seguro, la moneda a recomendar es Lido Staked Ether. Su crecimiento  en volúmen no maneja niveles grandes, pero tiene una baja volatilidal en cuánto al precio. Por lo que la hace más segura. Sin embargo, con un poco más de riesgo, la moneda a recomendar es Bitcoin que tiene apenas mejor crecimiento en volumen.
+## ***Conclusiones finales***
+Según la volatilidad de precios, una inversión con expectativa de poco crecimiento pero para uso de transacciones diarias, la moneda a recomendar es USD Coin. Con el fin de invertir a un plazo un poco más extenso, pero seguro, la moneda a recomendar es Lido Staked Ether. Su crecimiento  en volúmen no maneja niveles grandes, pero tiene una baja volatilidal en cuánto al precio. Por lo que la hace más segura. Sin embargo, con un poco más de riesgo, la moneda a recomendar es Bitcoin que tiene apenas mejor crecimiento en volumen.
 Aunque BNB tiene una baja en capitalización del mercado en el correr del año, en crecimiento de volumen está primera entre las 10 monedas y con la volatibilidad del precio más baja. Haciendola la moneda más rentable según éste análisis.
 
 
